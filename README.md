@@ -1,1 +1,1 @@
-initial README for commit
+Second itteration of README
